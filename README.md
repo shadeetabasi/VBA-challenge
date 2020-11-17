@@ -13,4 +13,4 @@ This repository will house the VBA homework assignment due on November 21, 2020.
   * VBA Homework - Year 2016 - Shadee Tabasi - 11.21.2020
 
 ## Status:
-* Status: COMPLETE
+* COMPLETE
