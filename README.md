@@ -2,8 +2,7 @@
 
 This repository will house the VBA homework assignment due on November 21, 2020.
 
-## Files include:
-* 1 Completed Excel Document: VBA - EXCEL DOCUMENT - Shadee Tabasi - 11.21.2020.xlsm
+## Files within folders include:
 * 3 .VBS Files, including: 
   * Primary Exercise Summary Table - VBS FILE - Shadee Tabasi - 11.21.2020.vbs
   * Conditional Formatting - VBS FILE - Shadee Tabasi - 11.21.2020.vbs
