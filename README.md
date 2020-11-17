@@ -11,6 +11,8 @@ This repository will house the VBA homework assignment due on November 21, 2020.
   * VBA Homework - Year 2014 - Shadee Tabasi - 11.21.2020
   * VBA Homework - Year 2015 - Shadee Tabasi - 11.21.2020
   * VBA Homework - Year 2016 - Shadee Tabasi - 11.21.2020
+  
+## Additional:
 * If needed, please find a download of the completed Excel Document here: https://we.tl/t-iXQqNVRHZs
 
 ## Status:
